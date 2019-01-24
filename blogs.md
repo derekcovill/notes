@@ -36,3 +36,4 @@ Play around and populate your site:
 - create a reflective post about your first(?) experience with wordpress
 - in both cases, use tags and categories
 - create a menu (or multiple menus) and add these to your site as widgets
+- submit the URL of your site into the assessment submission area on Studentcentral. Add a short note about what you have submitted. Check with your tutor that they can access the site. Submit again each week with a short update on progress. 
