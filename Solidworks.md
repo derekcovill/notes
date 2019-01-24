@@ -1,6 +1,3 @@
-# Introduction
-INTRO TEXT GOES HERE.
-
 # Solidworks (PC only)
 is...
 1. Parametric: everything is driven by numbers (length, diameter, thickness, colour, etc). 
@@ -78,4 +75,8 @@ Intermediate features:
 - create a 6-sided die (10x10x10mm, R1mm fillets on all faces, D2mm holes 0.5mm deep (opposing sides add up to 7)
 - all details must be dimensioned fully
 - approach this in different ways, aim to do it as fast as you can
-- record < 1min, excellent < 5min, 
+- record < 1min, excellent < 5min
+
+## Useful tools:
+- toolbox (nuts, bolts, gears etc)
+- 
