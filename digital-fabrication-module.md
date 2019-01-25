@@ -8,6 +8,7 @@
 ## Week 2: Computer-Aided Design
 - [Solidworks](https://github.com/derekcovill/notes/blob/master/solidworks.md)
 - [Fusion 360]()
+- [Product Data Management - PDM](https://github.com/derekcovill/notes/blob/master/product-data-management.md)
 
 ## Week 7: 3D printing (and scanning)
 - [3D printing/Additive manufacturing]()
