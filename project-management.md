@@ -1,8 +1,9 @@
 # Project management
 
 ## Resources
-[Fabacademy lecture] 
-
+- [Fabacademy lecture] 
+- [blogs](https://github.com/derekcovill/notes/blob/master/blogs.md)
+https://github.com/derekcovill/notes
 ## Principles
 - triage
 - demand- vs supply-side time management
