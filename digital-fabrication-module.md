@@ -4,6 +4,7 @@
 - [fabacademy lectures](https://vimeo.com/academany)
 - [project management](https://github.com/derekcovill/notes/blob/master/project-management.md)
 - [blogs](https://github.com/derekcovill/notes/blob/master/blogs.md)
+
 Assignment:  Create your edublog, go through the [edublocks userguide](https://help.edublogs.org/user-guide/) and the [image formatting](https://support.squarespace.com/hc/en-us/articles/206542517-Formatting-your-images-for-display-on-the-web) guides. 
 
 Play around and populate your site:
