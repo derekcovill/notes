@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Week 1: Electronics production"
+title:  "Week 1: Introduction, websites and project management"
 date:   2018-12-07
 ---
 
@@ -67,7 +67,7 @@ Note also the publication settings (internal or external, searchable or not, etc
 - [Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
 ### Tools
-- [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)
+- [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
 - [Trello](https://trello.com/)
 - [ganttproject](https://www.ganttproject.biz/)
 - [excelgantt](https://www.teamgantt.com/free-gantt-chart-excel-template)
