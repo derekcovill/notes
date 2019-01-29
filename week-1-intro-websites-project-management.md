@@ -64,7 +64,7 @@ Note also the publication settings (internal or external, searchable or not, etc
 - bottom-up vs top-down debugging
 - hierarchy, modularity
 - document as you work!!
-- [Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- [Mythical Man-Month](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
 ### Tools
 - [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
