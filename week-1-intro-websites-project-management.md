@@ -58,7 +58,7 @@ Note also the publication settings (internal or external, searchable or not, etc
 
 ## Considerations:
 - embed video (do not upload)
-- label+manage files+images like a jedi. Never upload a full res image
+- label+manage files+images like a jedi. Never upload a full res image (images always <1Mb)
 - note only 1Gb storage capacity
 - love your blog, document constantly, like a person possessed, and show it off!
 
