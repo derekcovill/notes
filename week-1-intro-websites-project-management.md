@@ -41,6 +41,13 @@ Note also the publication settings (internal or external, searchable or not, etc
 - [edublocks userguide](https://help.edublogs.org/user-guide/)
 - [image formatting](https://support.squarespace.com/hc/en-us/articles/206542517-Formatting-your-images-for-display-on-the-web)
 
+## Other options (by all means play!)
+- [github](https://github.com/)
+- [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [gitlab](https://about.gitlab.com/)
+- [gitbook](https://www.gitbook.com/)
+- [wordpress](https://wordpress.com/)
+
 ## Site structure:
 - note you can use posts (chronological) or pages (static)
 - use categories to help sort by subject
