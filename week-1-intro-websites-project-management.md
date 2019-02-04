@@ -31,7 +31,7 @@ We'll start by producing a blog/website for your project that you will build upo
 
 [Blogs](https://en.wikipedia.org/wiki/Blog) are websites. 
 
-goto http://blogs.brighton.ac.uk/createnew/ and select the first (or if you like the 2nd) option. 
+goto [http://blogs.brighton.ac.uk/createnew/](http://blogs.brighton.ac.uk/createnew/) and select the first (or if you like the 2nd) option. 
 
 Follow the instructions to name and create your site. Note that this will be a [wordpress](https://en.wikipedia.org/wiki/WordPress) site that is hosted within the University. 
 
@@ -59,7 +59,7 @@ Note also the publication settings (internal or external, searchable or not, etc
 ## Considerations:
 - embed video (do not upload)
 - label+manage files+images like a jedi. Never upload a full res image (images always <1Mb)
-- note only 1Gb storage capacity
+- note only typically 1Gb storage capacity and 50Mb upload limit
 - love your blog, document constantly, like a person possessed, and show it off!
 
 ## Project management 
