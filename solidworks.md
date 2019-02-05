@@ -6,8 +6,6 @@ date:   2018-2-5
 
 Introducing parametric modelling.
 
-<!--more-->
-
 ## Prep for this week's class
 
 Watch the corresponding Fab Academy lecture. We'll be covering part of this content. 
@@ -18,7 +16,7 @@ Watch the corresponding Fab Academy lecture. We'll be covering part of this cont
 ## Baseline 
 
 Who has:
-* Done 2D graphics
+
 * Used CAD software
 * Used parametric software
 * Produced 2D drawings
