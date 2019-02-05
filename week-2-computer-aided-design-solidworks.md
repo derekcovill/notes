@@ -116,6 +116,7 @@ Intermediate features:
 - also Grabcad/Thingyverse/etc
 - [solidworks A4 drawing template](https://drive.google.com/open?id=1oSnJt-BSTECa_LRzgIEuoPoB3L85mbhN)
 - [1st or 3rd angle projection?](https://youtu.be/_wDpN6Zi1hE)
+- [technical drawing guide](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/drawing_and_sketching/)
 
 ## Assignment
 
