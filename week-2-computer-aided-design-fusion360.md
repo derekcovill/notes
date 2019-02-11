@@ -37,7 +37,10 @@ Fusion 360 can do: FEA, animation, CAM, link with Eagle (electronics design), lo
 - [part 2: lid component and assembly](https://www.youtube.com/watch?v=HXRMzJWo0-Q)
 - [part 3: complex lid detail + McMaster Carr-toolbox](https://www.youtube.com/watch?v=zS8dYA_Iluc)
 
+- [part 4: drawings](https://www.youtube.com/watch?v=uinJ2I_SgKI)
+
 - [another good introductory video](https://www.youtube.com/watch?v=VbSkwvZyU_0)
+
 - [Autodesk videos](https://www.autodesk.co.uk/products/fusion-360/get-started)
 - Lynda videos how in LindedIn learning, access these through [https://www.brighton.ac.uk/lynda](https://www.brighton.ac.uk/lynda)
 - [modelling shortcuts](https://www.autodesk.com/shortcuts/fusion-360#modeling)
