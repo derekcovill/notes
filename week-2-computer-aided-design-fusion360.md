@@ -31,14 +31,13 @@ Fusion 360 can do: FEA, animation, CAM, link with Eagle (electronics design), lo
 
 [Download and use for free](https://www.autodesk.co.uk/products/fusion-360/overview)
 
-## Resources:
-- Start with these.....
+## Introductory videos:
+Start with these.....
 - [part 1: box component](https://www.youtube.com/watch?v=A5bc9c3S12g)
 - [part 2: lid component and assembly](https://www.youtube.com/watch?v=HXRMzJWo0-Q)
 - [part 3: complex lid detail + McMaster Carr-toolbox](https://www.youtube.com/watch?v=zS8dYA_Iluc)
-
 - [part 4: drawings](https://www.youtube.com/watch?v=uinJ2I_SgKI)
-
+## Other resources:
 - [another good introductory video](https://www.youtube.com/watch?v=VbSkwvZyU_0)
 
 - [Autodesk videos](https://www.autodesk.co.uk/products/fusion-360/get-started)
@@ -48,6 +47,8 @@ Fusion 360 can do: FEA, animation, CAM, link with Eagle (electronics design), lo
 - [Fusion 360 gallery of models](https://gallery.autodesk.com/fusion360)
 - Grabcad/Thingyverse/etc (filter for Fusion 360 models). 
 - any existing models to reverse engineer
+
+## Some material to practice on:
 - [sketching exercises](https://drive.google.com/open?id=1kcsn3ghW-dgm7xf_htp9wL9p7MROS2PX)
 - [part modelling exercises](https://drive.google.com/open?id=1fmFIsjV-P9DPdEKxaB_PEqnUaqnMnYti)
 
