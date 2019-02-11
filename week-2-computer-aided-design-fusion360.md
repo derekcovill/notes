@@ -123,7 +123,7 @@ Intermediate features:
 - record < 1min, excellent < 5min, ok < 15min
 
 ## Useful tools:
-- [toolbox (nuts, bolts, gears etc)](http://help.solidworks.com/2018/english/solidworks/toolbox/t_toolbox_activating_add_ins.htm)
+- [McMaster-Carr toolbox (nuts, bolts, gears etc)](https://knowledge.autodesk.com/support/fusion-360/getting-started/caas/screencast/Main/Details/974eecb7-fdfd-441d-9739-92af5887d826.html)
 - [Traceparts CAD models](https://www.traceparts.com/en)
 - also Grabcad/Thingyverse/etc
 - [1st or 3rd angle projection?](https://youtu.be/_wDpN6Zi1hE)
